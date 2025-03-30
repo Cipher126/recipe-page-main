@@ -79,7 +79,7 @@ hr {
     height: 120px;
 }
 
-.preparation h3 {
+.preparation h2 {
     font-family: "Outfit", sans-serif;
     font-weight: 800;
     font-style: bold;
@@ -107,7 +107,7 @@ hr {
     margin-top: 10px;
 }
 
-.ingredient h3 {
+.ingredient h2 {
     font-family: "Young Serif", serif;
     font-weight: 600;
     font-style: normal;
@@ -137,7 +137,7 @@ hr {
     margin-left: 2em;
 }
 
-.instructions h3 {
+.instructions h2 {
     font-family: "Young Serif", serif;
     font-weight: 600;
     font-style: normal;
@@ -166,7 +166,7 @@ hr {
     padding-bottom: 20px;
 }
 
-.nutritionContainer h3{
+.nutritionContainer h2{
     font-family: "Young Serif", serif;
     font-weight: 600;
     font-style: normal;
@@ -248,7 +248,7 @@ footer a {
         max-width: 90%;
     }
 
-    .nutritionContainer h3, p{
+    .nutritionContainer h2, p{
         margin-left: 2em;
     }
 
